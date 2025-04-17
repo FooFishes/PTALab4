@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(PTALab4
         T03.cpp
+        T04.cpp
 )
