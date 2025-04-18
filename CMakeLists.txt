@@ -3,6 +3,6 @@ project(PTALab4)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(PTALab4
-        T22.cpp
+add_executable(PTALab
+        T17.cpp
 )
